@@ -1,0 +1,98 @@
+[
+  {
+    "id": 2,
+    "title": "Autism, Family & You",
+    "author": "Secretary Robert F. Kennedy Jr",
+    "description": "This book demystifies and rectifies the problems inherent in autism by examining in clear terms the whole panorama of the subject, not just individual bits, beginning with its history and including practical advice at every level, yet without being an overblown medical-type textbook. It unravels and demystifies medical, psychiatric, and psychological terminology to reveal what autism really is and what it means to be autistic in day-to-day life and then analyzes its strengths and weaknesses in order to offer practical and constructive advice on dealing with it directly on its own terms, as it affects each individual and family. This book is a comprehensive look at the subject, drawn from a number of avenues of thought and knowledge, including anecdotal ones, as well as a series of ideas, research, and commentary from numerous sources around the world.",
+    "image": "https://m.media-amazon.com/images/I/71o5LJRFZHL._SY342_.jpg",
+    "available": false
+  },
+  {
+    "id": 3,
+    "title": "Counterterrorism & Cybersecurity",
+    "author": "Neton Lee",
+    "description": "Counterterrorism and cybersecurity are the top two priorities at the Federal Bureau of Investigation (FBI). Graduated from the FBI Citizens Academy in 2021, Prof. Newton Lee offers a broad survey of counterterrorism and cybersecurity history, strategies, and technologies in the 3rd edition of his riveting book that examines the role of the intelligence community, cures for terrorism, war and peace, cyber warfare, and quantum computing security.",
+    "image": "https://images.builderservices.io/s/cdn/v1.0/i/m?url=https%3A%2F%2Fstorage.googleapis.com%2Fproduction-ipage-v1-0-1%2F751%2F451751%2FhQFxPE7N%2Fec4d97e0205c4154b4af013d2673843e&methods=resize%2C1000%2C5000.io/s/cdn/v1.0/i/m?url=https%3A%2F%2Fstorage.googleapis.com%2Fproduction-ipage-v1-0-1%2F751%2F451751%2FhQFxPE7N%2Fec4d97e0205c4154b4af013d2673843e&methods=resize%2C1000%2C5000",
+    "available": true
+  },
+  {
+    "id": 4,
+    "title": "Claudia's Class Goes to Mars",
+    "author": "SHERR-ANN BROWN",
+    "description": "Spacecraft operations engineer Nagin Cox and scientist Rosaly Lopes who work at the Jet Propulsion Laboratory bring to life the story of young Claudia and her friends Jose and Ben, who experience a virtual reality trip to Mars that expands their future career horizons.\n\nGuided by their teacher Ms. Chiu, the friends visit a museum with exhibits about Mars and Earth and are amazed to “be on Mars” in a virtual reality theater. Jose, who collects rocks, learns about rocks on Mars. Ben, who loves cars, realizes he could drive cars on Mars. Claudia, who dreams of becoming a medical doctor, learns that astronauts would need doctors on a long Mars trip. The diversity shown by the group of friends and their teacher emphasizes that space is for everyone.",
+    "image": "https://images.builderservices.io/s/cdn/v1.0/i/m?url=https%3A%2F%2Fstorage.googleapis.com%2Fproduction-ipage-v1-0-1%2F751%2F451751%2FhQFxPE7N%2F499b4ee53ccb4f80bd8447238cf29147&methods=resize%2C1000%2C5000",
+    "available": true
+  },
+  {
+    "id": 5,
+    "title": "How Technology Works",
+    "author": "DK,  April 9, 2019",
+    "description": "How Technology Works demystifies the machinery that keeps the modern world going, from simple objects such as zip fasteners and can openers to the latest, most sophisticated devices of the information age, including smartwatches, personal digital assistants, and driverless cars. It includes inventions that have changed the course of history, like the internal combustion engine, as well as technologies that might hold the key to our future survival, including solar cells and new kinds of farming to feed a growing population.",
+    "image": "https://m.media-amazon.com/images/I/810pBUzBQTL._SY385_.jpg",
+    "available": false
+  },
+  {
+    "id": 6,
+    "title": "Technology Innovation",
+    "author": "Baldur Gudgeirsson",
+    "description": "The book's reader-friendly style bridges the gap between technical jargon and everyday language, making it accessible to both technology enthusiasts and newcomers. Immerse yourself in the content and the fascinating world of technology innovation.",
+    "image": "https://m.media-amazon.com/images/I/51DpQlGYQjL._SY425_.jpg",
+    "available": true
+  },
+  {
+    "id": 9,
+    "title": "All About Me",
+    "author": "Ashaolu Racheal",
+    "description": "A true life story about a passionate developer, student, and entrepreneur with a strong interest in technology and innovation. She combines her academic pursuits with hands-on experience in software development, constantly exploring new ways to solve real-world problems through creative and efficient digital solutions. As an entrepreneur, she is driven by a vision to build impactful projects that inspire growth and empower others in the tech community. Racheal’s dedication to learning and innovation continues to shape her journey as a rising talent in the field of technology and business.",
+    "image": "https://scontent.fiba2-2.fna.fbcdn.net/v/t39.30808-6/482069814_1710767872846018_1467494787551942007_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeE0WwIkRaE_0TJCJAhQNzMuaKqFkRzWZkpoqoWRHNZmSgqIk9TeC9vVobLINChKMgzIDcjYrbhDLO1c8gznKfn-&_nc_ohc=s_kBgov9m1gQ7kNvwE8V488&_nc_oc=Adn_gI1y_eNdoqQtIuhhC_bYGv_Vc2RJU1Z5W7rpssv9iWu2oHaku5AXuLSiN-xXHOE&_nc_zt=23&_nc_ht=scontent.fiba2-2.fna&_nc_gid=7g7qqJZX1msQCtSFJP1LHg&oh=00_Aff8MUWZ_pJythZGAg12PG5CDAlqX-qMwP0pjbch9YPrXg&oe=68FB02A5",
+    "available": true
+  },
+  {
+    "id": 10,
+    "title": "Zoology",
+    "author": "DK (Author), Smithsonian Institution (Contributor)",
+    "description": "This visual encyclopedia is filled with clear and fascinating information on everything about the social lives of animals. Read exciting stories like how animals communicate, defend their territories, and attract mates.",
+    "image": "https://m.media-amazon.com/images/I/81pC67n50+L._SY385_.jpg",
+    "available": false
+  },
+  {
+    "id": 11,
+    "title": "The French Lieutenant's Woman",
+    "author": "John Fowles",
+    "description": "Perhaps the most beloved of John Fowles's internationally bestselling works, The French Lieutenant's Woman is a feat of seductive storytelling that effectively invents anew the Victorian novel. \"Filled with enchanting mysteries and magically erotic possibilities\" (New York Times), the novel inspired the hugely successful 1981 film starring Meryl Streep and Jeremy Irons and is today universally regarded as a modern classic.",
+    "image": "https://m.media-amazon.com/images/I/71tUvq5WiuL._SY466_.jpg",
+    "available": true
+  },
+  {
+    "id": 12,
+    "title": "When You Blush",
+    "author": "Kristen Proby",
+    "description": "I don’t do relationships, but I’m excellent at casual hookups. That’s not to say I’m a jerk. Not at all. I respect women—all women—and I know the value of love. But I’m married to my job as a physician. In fact, I’m married to the hospital, having a full-time affair with the clinic, and my family is my side piece. I don’t have time for a relationship with a woman.\n\nBut then the most beautiful human I’ve ever laid eyes on walks onto my plane, and my world tilts. Thanks to a Montana snowstorm, I spend one incredible night with Harper, but wake up alone. She never told me her last name. She’s just … gone. It would figure that the one woman I could see myself breaking my own rules for is the one I can’t have.",
+    "image": "https://m.media-amazon.com/images/I/81kpWSWV00L._SY466_.jpg",
+    "available": false
+  },
+  {
+    "id": 13,
+    "title": "The Snow Thief",
+    "author": "Alice Hemming",
+    "description": "Squirrel and Bird are back, and this time it's winter! But squirrel has never seen snow before. Will he like it? You bet he will! Except, just as Squirrel starts to get used to the snow, it disappears. Is there a snow thief on the loose?\n\nWith vibrant art and captivating characters, the magic of winter is captured beautifully on each page as readers tag along Squirrel's forest adventure. Is there truly a snow thief on the loose, or is something else going on in Squirrel's forest? A perfect exploration of change―both seasonal, and the anxiety that change sometimes causes. Bonus material explaining about the changing of the seasons. Poised to be a new fall classic.",
+    "image": "https://m.media-amazon.com/images/I/91-t5oKsDyL._SY342_.jpg",
+    "available": true
+  },
+  {
+    "id": 14,
+    "title": "Coloring with Coco",
+    "author": "Andrea Ballo",
+    "description": "Rest, reflect, and spend quality time with this elegant, bold and easy coloring book for adults that features Black women embodying their confidence, their style, and their beauty! Each illustration was created by Andrea Ballo, the artist and influencer behind the popular TikTok account, Coloring with Coco. On every page, you'll find alluring images to color that encourage the restfulness and meditation we all need to be our best selves.",
+    "image": "https://m.media-amazon.com/images/I/81spE--2pQL._SY385_.jpg",
+    "available": true
+  },
+  {
+    "id": 15,
+    "title": "What Can You Do",
+    "author": "A.Reachy",
+    "description": "In “What Can You Do,” Ashaolu Racheal shares insights, ideas, and inspiration aimed at helping readers discover their inner strength, unlock their creativity, and realize that they can achieve more than they ever imagined. Her work encourages individuals to take action, embrace challenges, and believe in their ability to make a difference.",
+    "image": "https://scontent.fiba2-1.fna.fbcdn.net/v/t39.30808-6/467858663_1637943093461830_1322571778495624242_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeH6S1i2_tUcp-aU_dR2-guLkN4OtF0uNxqQ3g60XS43GigMyGORcRod8x42hqNdGfzrzOml-WNVkGFVnQkXVfTn&_nc_ohc=6WiW9b0CEvkQ7kNvwF3ozBE&_nc_oc=Adm3GlMvTC0ugNrn2ZOvZYu5a40z8xuErdVMbTav8iVe4I779TLouopE8_YqoQHjo1A&_nc_zt=23&_nc_ht=scontent.fiba2-1.fna&_nc_gid=WLtYDbt3iwKme_ek3UJmmA&oh=00_AfcZPeEKnSb7Oi4YbaxnBd5LWRg9NqDDKFVwZlQzCzDyRg&oe=68FB0B31",
+    "available": false
+  }
+]
